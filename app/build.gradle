@@ -54,3 +54,5 @@ task myCustomTask << {
     println ""
     println envVars
 }
+
+apply plugin: NevercodePlugin
